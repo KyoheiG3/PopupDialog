@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name             = 'PopupDialog'
-  s.version          = '1.1.1'
+  s.version          = '1.1.2'
   s.summary          = 'A simple custom popup dialog view controller'
   s.homepage         = 'https://github.com/orderella/PopupDialog'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
@@ -12,5 +12,5 @@ Pod::Spec.new do |s|
   s.source_files = 'PopupDialog/Classes/**/*'
   s.swift_version = '5.0'
 
-  s.dependency 'DynamicBlurView', '~> 4.0'
+  s.dependency 'DynamicBlurView', '~> 5.0'
 end
