@@ -1,13 +1,13 @@
 PODS:
-  - DynamicBlurView (4.0.0)
+  - DynamicBlurView (5.0.0)
   - iOSSnapshotTestCase (6.0.3):
     - iOSSnapshotTestCase/SwiftSupport (= 6.0.3)
   - iOSSnapshotTestCase/Core (6.0.3)
   - iOSSnapshotTestCase/SwiftSupport (6.0.3):
     - iOSSnapshotTestCase/Core
   - Nimble (7.3.4)
-  - PopupDialog (1.1.1):
-    - DynamicBlurView (~> 4.0)
+  - PopupDialog (1.1.2):
+    - DynamicBlurView (~> 5.0)
   - SwiftLint (0.35.0)
 
 DEPENDENCIES:
@@ -28,12 +28,12 @@ EXTERNAL SOURCES:
     :path: "../"
 
 SPEC CHECKSUMS:
-  DynamicBlurView: ccf9acd2b20c883cc2c72e3524a04d8d3ee20533
+  DynamicBlurView: cbbf25607245a3a80ce7aa366b086bdc2bd1aa07
   iOSSnapshotTestCase: 944a73f6d9676302811a86c0cf35f0e6ef5ab2a0
   Nimble: 051e3d8912d40138fa5591c78594f95fb172af37
-  PopupDialog: 720c92befd8bc23c13442254945213db5612f149
+  PopupDialog: c7a69b1a72ff05aac188de2e23a5302133bd227a
   SwiftLint: 5553187048b900c91aa03552807681bb6b027846
 
 PODFILE CHECKSUM: 07c617a2f6b270e1e612e31d4f4d376badedc104
 
-COCOAPODS: 1.8.1
+COCOAPODS: 1.9.1
